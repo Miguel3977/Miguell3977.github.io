@@ -5,6 +5,7 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Miguel Lombana's Blog</title>
+	Test 1
 	<link href="http://Miguell3977.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://Miguell3977.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
