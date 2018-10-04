@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Miguel Lombana, reflection"
-date: 2018-10-04
+date: 2018-09-28
 ---
 
 I'm not feeling to good in this class but now I know how to work github so hopefully it will be more easier
