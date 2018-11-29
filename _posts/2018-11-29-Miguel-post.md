@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Miguel Lombana, reflection 9"
+title: "Miguel Lombana, reflection 10"
 date: 2018-11-29
 ---
 Hello whoever takes the time to read this, I am back with another blog post of my APC Computer Class. I will be looking at a question in a midterm that was recently taken by me and my peers, I will be looking at question 3 of the exam. I am interested in question 3 specifically not because it was the most correct or had more diffculty than others but by its proportion correct. Question 3 is an MS1 skill which tests the person on "using tools" as well as being a Novice difficulty it brought some confusion to people. 
